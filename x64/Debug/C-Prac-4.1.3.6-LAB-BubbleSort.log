@@ -1,0 +1,12 @@
+﻿  C-Prac-4.1.3.6-LAB-BubbleSort.cpp
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.3.6-LAB-BubbleSort\C-Prac-4.1.3.6-LAB-BubbleSort.cpp(36,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.3.6-LAB-BubbleSort\C-Prac-4.1.3.6-LAB-BubbleSort.cpp(36,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.3.6-LAB-BubbleSort\C-Prac-4.1.3.6-LAB-BubbleSort.cpp(36,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.3.6-LAB-BubbleSort\C-Prac-4.1.3.6-LAB-BubbleSort.cpp(36,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.3.6-LAB-BubbleSort\C-Prac-4.1.3.6-LAB-BubbleSort.cpp(36,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.3.6-LAB-BubbleSort\C-Prac-4.1.3.6-LAB-BubbleSort.cpp(36,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.3.6-LAB-BubbleSort\C-Prac-4.1.3.6-LAB-BubbleSort.cpp(36,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.3.6-LAB-BubbleSort\C-Prac-4.1.3.6-LAB-BubbleSort.cpp(36,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.3.6-LAB-BubbleSort\C-Prac-4.1.3.6-LAB-BubbleSort.cpp(36,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.3.6-LAB-BubbleSort\C-Prac-4.1.3.6-LAB-BubbleSort.cpp(36,69): warning C4305: 'initializing': truncation from 'double' to 'float'
+  C-Prac-4.1.3.6-LAB-BubbleSort.vcxproj -> E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\x64\Debug\C-Prac-4.1.3.6-LAB-BubbleSort.exe
